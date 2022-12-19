@@ -1,14 +1,14 @@
 # Food-Final-
 This is my Final Project about a food website which will provide good quality food at very low price.
-#Website Link https://gray-field-03ebc8310.2.azurestaticapps.net/
-Website Video Link 
+##Website Link https://gray-field-03ebc8310.2.azurestaticapps.net/
+##Website Video Link 
 
 
 ## Home Page
 ![image](https://user-images.githubusercontent.com/118900668/208397769-98324962-0c6d-481e-b7ab-ba076cbcb6de.png)
 
 
-## Seciality Page
+## Speciality Page
 ![image](https://user-images.githubusercontent.com/118900668/208397821-e7e9cbef-4879-427f-900f-43de83a62f75.png)
 ![image](https://user-images.githubusercontent.com/118900668/208397944-6cbf5ba7-53b8-47fc-8bb4-1c1af0f4062f.png)
 

@@ -34,3 +34,17 @@ This is my Final Project about a food website which will provide good quality fo
 ![image](https://user-images.githubusercontent.com/118900668/208398505-5121d31c-08be-4720-9cd1-bdd65909bfb4.png)
 
 
+
+##Deployment
+First of all we have cretead a static web app resource 
+![image](https://user-images.githubusercontent.com/118900668/209672527-e59ea1e7-3e22-40e1-9d69-944066a23c85.png)
+
+
+now we have added the credentials like name github account organization reository branch
+![image](https://user-images.githubusercontent.com/118900668/209672670-2bba88a0-d516-417f-afed-2b111b96b386.png)
+
+
+now at last our page will be deployed
+![image](https://user-images.githubusercontent.com/118900668/209673142-a55d12cf-944e-48cd-96fd-8251de8d4473.png)
+
+

@@ -45,6 +45,6 @@ now we have added the credentials like name github account organization reositor
 
 
 now at last our page will be deployed
-![image](https://user-images.githubusercontent.com/118900668/209673142-a55d12cf-944e-48cd-96fd-8251de8d4473.png)
+![image](https://user-images.githubusercontent.com/118900668/209673284-68b6a0dd-4f57-4119-ae84-7fe0e623cc3b.png)
 
 

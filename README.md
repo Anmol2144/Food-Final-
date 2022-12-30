@@ -15,7 +15,7 @@
 ## It will tell the user about our seciality that the user has liked the most and moreover if the user will hover
 to any of the item it will o out the images of that particular food item.
 ![image](https://user-images.githubusercontent.com/118900668/208397821-e7e9cbef-4879-427f-900f-43de83a62f75.png)
-
+  
 ![image](https://user-images.githubusercontent.com/118900668/208397944-6cbf5ba7-53b8-47fc-8bb4-1c1af0f4062f.png)
 
 
@@ -49,24 +49,32 @@ they are satisfied with our service or not.
 
 
 # Order Page
+
+## It is the order ae where you can place your order and enjoy the food. 
 ![image](https://user-images.githubusercontent.com/118900668/208398505-5121d31c-08be-4720-9cd1-bdd65909bfb4.png)
 
 
 
 # Azure Service used
 
-First of all we have cretead a static web app resource 
+## HTML5
+## CSS3
+## Javascript
+## Azure Static Web Apps
+
+## After ogin our azure account
+## First of all we have cretead a static web app resource 
 ![image](https://user-images.githubusercontent.com/118900668/209672527-e59ea1e7-3e22-40e1-9d69-944066a23c85.png)
 
 
-now we have added the credentials like name github account organization repository branch
+## Now we have added the credentials like name github account organization repository branch
 ![image](https://user-images.githubusercontent.com/118900668/209672670-2bba88a0-d516-417f-afed-2b111b96b386.png)
 
 
-now at last our page will be deployed with the url of our website  
+## Now at last our page will be deployed with the url of our website  
 ![image](https://user-images.githubusercontent.com/118900668/209673284-68b6a0dd-4f57-4119-ae84-7fe0e623cc3b.png)
 
-## Github Reository and Actions
+# Github Reository and Actions
 
-you can see all the workkflows in the action tab of github repository
+## You can see all the workkflows in the action tab of github repository
 ![image](https://user-images.githubusercontent.com/118900668/209674386-96bac0b9-8cac-4dd1-a50c-d7d5b6d3cb94.png)

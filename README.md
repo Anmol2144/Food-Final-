@@ -5,10 +5,14 @@ This is my Final Project about a food website which will provide good quality fo
 
 
 ## Home Page
+
+It is the home ae which will be displayed to the user about the first impression of our website.
 ![image](https://user-images.githubusercontent.com/118900668/208397769-98324962-0c6d-481e-b7ab-ba076cbcb6de.png)
 
 
 ## Speciality Page
+
+It will tell the user about our seciality that the user    
 ![image](https://user-images.githubusercontent.com/118900668/208397821-e7e9cbef-4879-427f-900f-43de83a62f75.png)
 ![image](https://user-images.githubusercontent.com/118900668/208397944-6cbf5ba7-53b8-47fc-8bb4-1c1af0f4062f.png)
 
